@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/baby-sister/static/css/main.d1b05096.chunk.css",
+    "main.js": "/baby-sister/static/js/main.d7275b5e.chunk.js",
+    "main.js.map": "/baby-sister/static/js/main.d7275b5e.chunk.js.map",
+    "runtime-main.js": "/baby-sister/static/js/runtime-main.507177e9.js",
+    "runtime-main.js.map": "/baby-sister/static/js/runtime-main.507177e9.js.map",
+    "static/js/2.640d2b16.chunk.js": "/baby-sister/static/js/2.640d2b16.chunk.js",
+    "static/js/2.640d2b16.chunk.js.map": "/baby-sister/static/js/2.640d2b16.chunk.js.map",
+    "index.html": "/baby-sister/index.html",
+    "precache-manifest.1bacddc0705e5c2f8433c658f7f5ff77.js": "/baby-sister/precache-manifest.1bacddc0705e5c2f8433c658f7f5ff77.js",
+    "service-worker.js": "/baby-sister/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/baby-sister/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.640d2b16.chunk.js.LICENSE.txt": "/baby-sister/static/js/2.640d2b16.chunk.js.LICENSE.txt",
+    "static/media/boy.png": "/baby-sister/static/media/boy.c3bf8f87.png",
+    "static/media/girl.png": "/baby-sister/static/media/girl.953fae91.png",
+    "static/media/logo.svg": "/baby-sister/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.507177e9.js",
+    "static/js/2.640d2b16.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.d7275b5e.chunk.js"
+  ]
+}
